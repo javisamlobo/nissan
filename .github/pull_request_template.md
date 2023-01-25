@@ -3,7 +3,7 @@
 En este proyecto la empresa NissanSL ha contactado con nosotros para digitalizar su empresa mediante el automatizado de las piezas que llegan a dicha empresa, en esta pull se han implementado todo lo relacionado con models, los atributos necesarios para su correcto funcionamiento y las interfaces que complementan a susodichos atributos; con su correcto directorio (src.com.iesam.NissanSL.domain.models)
 ## ¿Cómo se ha implementado?
 
-La estructura usada se ha realizado de la siguiente manera: src.com.iesam.NissanSL.domain.models
+La estructura usada se ha realizado de la siguiente manera: src.com.iesam.NissanSL.domain.models. Implementando los atributos y las interfaces basadas en los diagramas de clases creado anteriomente.
 
 ## Keywords
 
