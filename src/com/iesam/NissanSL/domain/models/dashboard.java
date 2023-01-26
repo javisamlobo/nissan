@@ -1,6 +1,6 @@
 package com.iesam.NissanSL.domain.models;
 
-public class dashboard implements part{
+public class dashboard implements Part {
 
     private String cod;
 

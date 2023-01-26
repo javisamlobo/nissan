@@ -8,7 +8,7 @@ public class chassis {
     private String rackCode;
     private String model;
     private String brand;
-    private List<part> parts = new ArrayList<>();
+    private List<Part> Parts = new ArrayList<>();
 
     public String getRackCode() {
         return rackCode;
@@ -34,11 +34,11 @@ public class chassis {
         this.brand = brand;
     }
 
-    public List<part> getParts() {
-        return parts;
+    public List<Part> getParts() {
+        return Parts;
     }
 
-    public void addPart (part part) {
-        this.parts.add(part);
+    public void addPart (Part part) {
+        this.Parts.add(part);
     }
 }
