@@ -3,7 +3,7 @@ package com.iesam.NissanSL.domain.models;
 import java.util.ArrayList;
 import java.util.List;
 
-public class chassis {
+public class Chassis {
 
     private String rackCode;
     private String model;

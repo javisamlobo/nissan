@@ -14,7 +14,7 @@ public class MemPartDataStore implements PartDataStore{
 
     @Override
     public void getParts(Part part) {
-
+        dataStore.get(part.getCod());
     }
 
     @Override
