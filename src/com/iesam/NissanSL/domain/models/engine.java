@@ -1,6 +1,6 @@
 package com.iesam.NissanSL.domain.models;
 
-public class engine implements part {
+public class engine implements Part {
 
     private String cod;
 

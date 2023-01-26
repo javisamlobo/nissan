@@ -1,6 +1,6 @@
 package com.iesam.NissanSL.domain.models;
 
-public class wheel implements part{
+public class wheel implements Part {
 
     private String cod;
 

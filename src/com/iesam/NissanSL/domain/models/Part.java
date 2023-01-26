@@ -1,6 +1,6 @@
 package com.iesam.NissanSL.domain.models;
 
-public interface part {
+public interface Part {
 
     public String getCod();
     public void setCod(String cod);
